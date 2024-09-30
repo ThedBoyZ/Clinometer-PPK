@@ -1,0 +1,7 @@
+Clinometer PPK
+(log book)
+
+31/07/2023
+- Wire can't use Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1); with MPU6050 it's use <<Wire>> too.
+
+- SoftWire it's can use two-Wiring (can take Time to research & test lab)
